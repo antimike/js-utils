@@ -1,0 +1,25 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "Utility and helper modules for use in other Node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/antimike/js-utils.git"
+  },
+  "keywords": [
+    "monad",
+    "functional",
+    "repl",
+    "helpers"
+  ],
+  "author": "Michael Haynes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antimike/js-utils/issues"
+  },
+  "homepage": "https://github.com/antimike/js-utils#readme"
+}
